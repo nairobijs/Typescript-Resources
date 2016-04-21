@@ -1,7 +1,7 @@
 # Typescript-Resources
 A collection of Typescript Resources
 
-#[Typescript](https://angularjs.org/)
+#[Typescript](https://www.typescriptlang.org/)
 TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict superset of JavaScript, and adds optional static typing and class-based object-oriented programming to the language. Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, has worked on the development of TypeScript. TypeScript may be used to develop JavaScript applications for client-side or server-side (Node.js) execution.
 
 ###Motivation

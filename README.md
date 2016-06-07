@@ -52,6 +52,7 @@ TypeScript is a free and open source programming language developed and maintain
 ###Resources
 - [Atom Editor- atom-typescript](https://github.com/TypeStrong/atom-typescript)
 - [Sublime Editor](https://github.com/raph-amiard/sublime-typescript)
+- [TypeScript Plugin for Sublime Text](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
 - [Eclipse Plugin](https://github.com/palantir/eclipse-typescript)
 - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook)
 - [TypeScript Collections: It is a complete, fully tested data structure library written in TypeScript.](https://github.com/basarat/typescript-collections/)

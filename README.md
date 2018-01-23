@@ -73,4 +73,3 @@ A collection of Typescript Resources
 - [Typescript Testing Examples](https://github.com/remojansen/TypeScriptTestingExamples)
 
 ### Misc
-
